@@ -1,0 +1,50 @@
+Do you wish to play the [Guess the number game]? [Type 'y' or 'Y' for yes otherwise type no to Exit the program]
+y
+Guess a magic number between 0 and 100
+Enter your guess [positive whole values only]
+50
+Your guess of 50 is too low
+Enter your guess [positive whole values only]
+60
+Your guess of 60 is too low
+Enter your guess [positive whole values only]
+70
+Your guess of 70 is too low
+Enter your guess [positive whole values only]
+90
+You guessed the correct number ==> 90 in 4 attempts
+You are a winner, guessing the correct number ==> 90 in 4 tries / attempts
+Do you wish to play the [Guess the number game Again]? [Type 'y' or 'Y' for yes otherwise type no to Exit the program]
+y
+Guess a magic number between 0 and 100
+Enter your guess [positive whole values only]
+50
+Your guess of 50 is too high
+Enter your guess [positive whole values only]
+40
+Your guess of 40 is too high
+Enter your guess [positive whole values only]
+30
+Your guess of 30 is too high
+Enter your guess [positive whole values only]
+20
+Your guess of 20 is too low
+Enter your guess [positive whole values only]
+10
+Your guess of 10 is too low
+Enter your guess [positive whole values only]
+25
+Your guess of 25 is too low
+Enter your guess [positive whole values only]
+27
+Your guess of 27 is too low
+Enter your guess [positive whole values only]
+28
+Your guess of 28 is too low
+Enter your guess [positive whole values only]
+29
+You guessed the correct number ==> 29 in 9 attempts
+To obtain a winning status, you need to play the game again!!
+Do you wish to play the [Guess the number game Again]? [Type 'y' or 'Y' for yes otherwise type no to Exit the program]
+n
+THANKS FOR PLAYING THE GUESS THE NUMBER GAME - HAVE A NICE DAY!
